@@ -1,0 +1,38 @@
+tr td{
+    border: 1px solid rgb(20, 180, 190);
+    padding: 5px;
+    
+}
+table{
+    border-collapse: collapse;
+}
+.child-div{
+    background-color: chartreuse;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+    color: aliceblue;
+}
+.main-div{
+    display: flex;
+    align-items: center;
+    position: absolute;
+}
+.main-div1{
+    background-color: blueviolet;
+    display: flex;
+   flex-direction: row;
+    align-items: center;
+}
+.child-div1{
+    background-color: chartreuse;
+    padding: 60px;
+    margin: 10px;
+    text-align: center;
+    color: aliceblue;
+}
+.Navigation-list{
+    display: flex;
+   margin-top: 4px;
+
+}
